@@ -14,7 +14,7 @@ Progressive Movement of Robots with no Objects
 <img src="Images/ProgressiveMovementOfRobotsNoObjects.png" width="400">
 
 Progressive Movement of Chain Robots with the influence of moving Objects
-<img src="Images/ProgressiveMovementOfRobotsNoObjects.png" width="400">
+<img src="Images/SimulationResultsWithPeople-Objects.png" width="400">
 
 ## Conclusion and Further Research 
 An autonomous robot chain algorithm has been analyzed in this report. The proposed method was based on classical vector analysis with the purpose of achieving a really fast processing algorithm that can be used in every processing unit. This project had interesting final results however there are several improvements that can be made in the future:
