@@ -10,6 +10,7 @@ In this project we analyse a widely studied project which deals with the navigat
 3. Finally we needed to develop a new system for the avoidance of objects-humans that were moving in space
 
 ## Results of the Project 
+<img src="Images/robotLineMoving.gif" width="400">
 <img src="Images/ProgressiveMovementOfRobotsNoObjects.png" width="400">
 Progressive Movement of Robots with no Objects
 
